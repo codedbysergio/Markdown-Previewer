@@ -61,7 +61,7 @@ export class TextRenderer extends marked.TextRenderer {}
 export class Slugger extends marked.Slugger {}
 
 export namespace marked {
-    const defaults = MarkedOptions;
+    const defaults: MarkedOptions;
 
     /**
      * @param src String of markdown source to be compiled
