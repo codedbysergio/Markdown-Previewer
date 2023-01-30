@@ -1,3 +1,4 @@
+/* eslint-disable */
 /**
  * marked v4.2.12 - a markdown parser
  * Copyright (c) 2011-2023, Christopher Jeffrey. (MIT Licensed)
