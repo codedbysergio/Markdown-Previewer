@@ -1,5 +1,5 @@
 import React from 'react'
-import { marked } from './index.d.ts';
+import { marked } from './marked.js';
 
 export default function Previewer({ text }) {
 
